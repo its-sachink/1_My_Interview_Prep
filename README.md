@@ -4,7 +4,7 @@ This would contains links for my Interview Prep
 ## CKA Notes :
 
 ## CKS Notes :
-    - https://github.com/its-sachink/GIT-CKS-NOTES/tree/main/Mumshad
+    - [CKS Notes](https://github.com/its-sachink/GIT-CKS-NOTES/tree/main/Mumshad)
 
 
 ## HELM Chart :
