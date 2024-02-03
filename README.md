@@ -63,6 +63,11 @@ This would contains links for my Interview Prep
 ## AWS EKS :
 
     [EKS](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/)
+
+## AWS DevOps :
+
+    ![AWS DevOps](https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/)
+
     
 ## GKE :
 
